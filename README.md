@@ -14,5 +14,6 @@ The code is array-based to be as dynamic as possible. In the current form only c
 The voltages are printed to the serial monitor and can then be copied to excel or similar to be graphed out. (Note that the current Arduino IDE 2.2.1 has this bug where copying everything from the serial monitor is not possible, the legacy version 1.8x works though)
 
 # limitations
--  Readings can become noisy very fast
 -  many analog inputs needed
+-  Readings can become noisy very fast
+-  As the voltages of the 'higher' cells are analytically deduced by subtracting those below, errors sum up.
