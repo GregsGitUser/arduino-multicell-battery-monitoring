@@ -1,5 +1,5 @@
 # arduino-multicell-battery-monitoring
-collects voltage data from individual cells using internal 10-bit ADC  
+collects voltage data from individual cells in multi-cell battery pack using the internal 10-bit ADC of the Arduino Uno  
 
 # description
 When analyzing old multi-cell battery packs this tool helps to find malicious cells by monitoring all individual cell voltages simultaneously - also during load. By finding and replacing these cells with a conspicious drop in voltage the battery should become more capable again.
