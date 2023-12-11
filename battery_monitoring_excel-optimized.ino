@@ -1,4 +1,4 @@
-// https://github.com/GregsGitUser/arduino-multicell-battery-monitoring/upload/main
+// https://github.com/gregsell/arduino-multicell-battery-monitoring/upload/main
 
 // IMPORTANT:
 // definition: C1 cell with lowest voltage, c6 highest voltage
